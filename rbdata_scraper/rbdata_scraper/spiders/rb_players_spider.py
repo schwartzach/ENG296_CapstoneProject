@@ -1,3 +1,9 @@
+"""""
+References Used:
+https://www.geeksforgeeks.org/python/implementing-web-scraping-python-scrapy/ 
+"""
+
+
 import scrapy
 
 class PlayersSpider(scrapy.Spider):
